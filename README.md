@@ -87,7 +87,8 @@ README.md
 
 ## Dashboard Preview
 
-![Banking Loan Dashboard](Images/Banking_Loan_Dashboard.png)
+<img width="2668" height="1216" alt="BANKING_LOAN_DASHBOARD" src="https://github.com/user-attachments/assets/ced5ae10-55cc-4694-9ef9-6b8752365028" />
+
 
 ---
 
