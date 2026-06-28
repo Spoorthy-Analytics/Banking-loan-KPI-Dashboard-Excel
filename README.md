@@ -87,7 +87,7 @@ README.md
 
 ## Dashboard Preview
 
-[BANKING_LOAN_DASHBOARD.png](https://github.com/Spoorthy-Analytics/Banking-loan-KPI-Dashboard-Excel/blob/f4949737b45ab93f904be64ccd83848454ba57d4/BANKING_LOAN_DASHBOARD.png)
+![BANKING_LOAN_DASHBOARD](Dasboard/BANKING_LOAN_DASHBOARD.png)
 
 
 ---
