@@ -85,9 +85,10 @@ README.md
 
 ---
 
+
 ## Dashboard Preview
 
-![BANKING_LOAN_DASHBOARD](Dasboard/BANKING_LOAN_DASHBOARD.png)
+![Banking Dashboard](BANKING_LOAN_DASHBOARD.png)
 
 
 ---
